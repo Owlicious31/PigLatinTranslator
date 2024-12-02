@@ -2,4 +2,4 @@
 
 
 
-A basic English to Pig Latin Translator made using the customtkinter library.
+-A basic English to Pig Latin Translator made using the customtkinter library.
